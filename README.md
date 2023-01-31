@@ -7,7 +7,7 @@ Chương Trình Hỗ Trợ Tạo Proxy IPV6 Trên VPS
 ## Lệnh Chạy
 - Copy Và Paste Câu Lệnh Bên Dưới Vào Terminal Và Nhấn Enter
 
-- bash <(curl -s "https://raw.githubusercontent.com/haichaucoder/Ma_Nguon_3Proxymain/setup.sh")
+- bash <(curl -s "https://raw.githubusercontent.com/haichaucoder/Proxy_Hai_Chau/main/setup.sh")
 
 
 ![pic](Proxy.png)
